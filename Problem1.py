@@ -1,0 +1,6 @@
+print("Twinkle Twinkle little star")
+print("How I wonder what you are")
+print(5+4)
+print(9-1)
+print(8*8)
+print(10/2)
